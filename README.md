@@ -1,11 +1,9 @@
 # rapradiptya's custom build of DWM
 
 ![dwmls](screenshots/dwmls.png)
-![dwm1](screenshots/dwm1.png)
-![dwm2](screenshots/dwm2.png)
 
 # Contents
-- [Youtube showcase](#showcase)
+- [Showcase](#showcase)
 - [Patches included](#patches)
 - [Extra features](#extra)
 - [Future plans](#future)
@@ -15,8 +13,6 @@
 
 
 # Showcase
-[![Showcase](screenshots/yt.png)](https://youtu.be/r-ckyZHcYIo)
-
 
 Suckless **[dwm](https://dwm.suckless.org/)**
 
